@@ -1,0 +1,2 @@
+# Kino-yuklovchi
+Kinolani yuklaydi
